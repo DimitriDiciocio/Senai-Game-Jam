@@ -6,13 +6,13 @@ Comunicação e Suporte:
 Junte-se ao nosso servidor Discord para suporte, dúvidas e interações com outros participantes.
 Link para o Discord: https://discord.gg/rqrpW2aWjQ
 
-Anúncio da Game Jam: Unity 2D Game Jam para Iniciantes
-Bem-vindo à Unity 2D Game Jam para Iniciantes! Esta é a sua chance de mergulhar no desenvolvimento de jogos 2D e criar algo incrível em apenas uma mês. Leia abaixo todas as instruções e regras para participar.
+Anúncio da Game Jam: Game Maker 2D Game Jam para Iniciantes
+Bem-vindo à Game Maker 2D Game Jam para Iniciantes! Esta é a sua chance de mergulhar no desenvolvimento de jogos 2D e criar algo incrível em apenas uma mês. Leia abaixo todas as instruções e regras para participar.
 
  Detalhes do Evento
 Duração: 1 mês (De [01/07] a [31/07])
 Tema: Jogos 2D
-Ferramenta: Unity
+Ferramenta: Game Maker
 Participação: Individual (sem grupos)
 
  Instruções para Participação
@@ -20,7 +20,7 @@ Tema:
 O tema da game jam é "Jogos 2D". Use sua criatividade para criar qualquer tipo de jogo 2D que desejar!
 
 Ferramentas:
-Utilize o Unity para desenvolver seu jogo. Recomendamos usar a versão LTS para estabilidade.
+Utilize o Game Maker para desenvolver seu jogo. Recomendamos usar a versão LTS para estabilidade.
 
 Envie seu jogo até a data final da Game Jam (31/07)
 Certifique-se de que seu jogo está jogável e sem bugs críticos antes de enviar.
@@ -45,7 +45,7 @@ O jogo deve ser criado durante o período da game jam. Jogos iniciados antes do 
 Você pode usar assets pré-existentes, mas dê crédito aos criadores originais.
 
 Ferramentas e Recursos:
-Utilize apenas o Unity para o desenvolvimento do jogo.
+Utilize apenas o Game Maker para o desenvolvimento do jogo.
 Recursos gratuitos de arte e som são permitidos, desde que devidamente creditados.
 
 Participação Individual:
