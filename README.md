@@ -2,10 +2,10 @@
  A Game Jam desenvolvida por membros do Senai para treinar suas capacidades
 
 Anúncio da Game Jam: Unity 2D Game Jam para Iniciantes
-Bem-vindo à Unity 2D Game Jam para Iniciantes! Esta é a sua chance de mergulhar no desenvolvimento de jogos 2D e criar algo incrível em apenas uma semana. Leia abaixo todas as instruções e regras para participar.
+Bem-vindo à Unity 2D Game Jam para Iniciantes! Esta é a sua chance de mergulhar no desenvolvimento de jogos 2D e criar algo incrível em apenas uma mês. Leia abaixo todas as instruções e regras para participar.
 
  Detalhes do Evento
-Duração: 1 semana (De [Data de Início] a [Data de Término])
+Duração: 1 mês (De [01/07] a [31/07])
 Tema: Jogos 2D
 Ferramenta: Unity
 Participação: Individual (sem grupos)
@@ -21,7 +21,7 @@ Comunicação e Suporte:
 Junte-se ao nosso servidor Discord para suporte, dúvidas e interações com outros participantes.
 Link para o Discord: 
 
-Envie seu jogo até a data final da Game Jam (21/06)
+Envie seu jogo até a data final da Game Jam (31/07)
 Certifique-se de que seu jogo está jogável e sem bugs críticos antes de enviar.
 
 
