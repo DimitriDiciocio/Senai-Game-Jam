@@ -20,7 +20,7 @@ Tema:
 O tema da game jam é "Jogos 2D". Use sua criatividade para criar qualquer tipo de jogo 2D que desejar!
 
 Ferramentas:
-Utilize o Game Maker para desenvolver seu jogo. Recomendamos usar a versão LTS para estabilidade.
+Utilize o Game Maker para desenvolver seu jogo.
 
 Envie seu jogo até a data final da Game Jam (31/07)
 Certifique-se de que seu jogo está jogável e sem bugs críticos antes de enviar.
