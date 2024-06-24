@@ -1,6 +1,11 @@
 # Senai Game Jam
  A Game Jam desenvolvida por membros do Senai para treinar suas capacidades
 
+
+Comunicação e Suporte:
+Junte-se ao nosso servidor Discord para suporte, dúvidas e interações com outros participantes.
+Link para o Discord: https://discord.gg/rqrpW2aWjQ
+
 Anúncio da Game Jam: Unity 2D Game Jam para Iniciantes
 Bem-vindo à Unity 2D Game Jam para Iniciantes! Esta é a sua chance de mergulhar no desenvolvimento de jogos 2D e criar algo incrível em apenas uma mês. Leia abaixo todas as instruções e regras para participar.
 
@@ -16,10 +21,6 @@ O tema da game jam é "Jogos 2D". Use sua criatividade para criar qualquer tipo 
 
 Ferramentas:
 Utilize o Unity para desenvolver seu jogo. Recomendamos usar a versão LTS para estabilidade.
-
-Comunicação e Suporte:
-Junte-se ao nosso servidor Discord para suporte, dúvidas e interações com outros participantes.
-Link para o Discord: 
 
 Envie seu jogo até a data final da Game Jam (31/07)
 Certifique-se de que seu jogo está jogável e sem bugs críticos antes de enviar.
